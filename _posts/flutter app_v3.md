@@ -4,6 +4,10 @@ title: Flutter App_v3
 desc: ''
 updated: 1664964989115
 created: 1663962359558
+date: "2022-09-24"
+categories: 
+  - "research"
+date: "2022-09-24"
 ---
 
 ---
@@ -11,7 +15,11 @@ id: 1rijw49orkfuf2lyedat6vk
 title: Flutter App_v2
 desc: ''
 updated: 1660635169555
-created: 1660416585494
+created: 1663962359558
+date: "2022-09-24"
+categories: 
+  - "research"
+date: "2022-09-24"
 ---
 
 To be good, be self-disciplined. To be excellent, love what you do. To be the best, be obsessed. stress/tension manage, test of your endurance- lose friends| relations| no food, no trying go all the way; Pain is your motivation.
