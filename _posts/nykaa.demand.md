@@ -1,0 +1,24 @@
+---
+id: NQu5VEQqsKEZeIWIdw0iG
+title: Demand
+desc: ''
+updated: 1636969682547
+created: 1636914300791
+---
+
+# Total market size
+- $30B [1](https://mediaindia.eu/business/indias-blossoming-billion-dollar-beauty-market/)
+- ![Global demand benchmark](https://static.seekingalpha.com/uploads/2021/1/8/33446475-16101342659872382.png)
+- 13M units sold every year [1]([[Industries-view.cosmetics]])
+
+
+# Nykaa Metrics
+
+| |2021| 2020| 2019|
+|----|----|-----|-----|
+|Revenue($ Mn) |400 | 300 |  200|
+|Social media influencers| 3055|
+
+[[myglamm]]
+
+[[Industries-view.cosmetics]]

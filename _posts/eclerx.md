@@ -1,0 +1,64 @@
+---
+id: 0fkNzwH0FdiHxDQNyjSlJ
+title: Eclerx
+desc: ''
+updated: 1636964784396
+created: 1636963196895
+---
+# Eclerx
+1. Employee costs are a major factor on bottom line, its been increasing as sales/topline growth is muted.
+2. However recent acquisition of Personiv should add growth, mgt expects EBIT margin ~28-32% [source](https://eclerx.com/wp-content/uploads/2021/06/Transcript-Q4FY21-Earnings-Call-Eclerx.pdf)
+- [ ] What will drive sales? Cost looks sorted while EBITDA margin currently hovering ~25-28%, should go to 30+%
+3. Quarterly POV: sales have been surging at QoQ 7% avg. while exps at 5%
+- [ ] will growth rate sustain and increase?
+
+# Financials
+## Annual Financials
+|Financials|||||||||Growth|||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|-|Mar'20|Mar'19|Mar'18|Mar'17|Mar'16|Mar'15||||Mar'20|Mar'19|Mar'18|Mar'17|Mar'16|Mar'15
+Operating Income|1,437.00|1,430.00|1,365.00|1,330.00|1,314.30|942.1||||0.5%|4.8%|2.6%|1.2%|39.5%|
+Net Sales|1,437.00|1,430.00|1,365.00|1,330.00|1,314.30|942.1||||0.5%|4.8%|2.6%|1.2%|39.5%|
+Employee Cost|854|786|692|593|573|439.8||||8.7%|13.6%|16.7%|3.5%|30.3%|
+EC % of Net sales|**59%**|**55%**|**51%**|**45%**|**44%**|**47%**|||||||||
+Total Expenditure|1,112.00|1,121.00|997|869|833.4|625.9||||-0.8%|12.4%|14.7%|4.3%|33.2%|
+Operating Profit (PBDIT)|371|357|407|489|517.8|348.6||||3.9%|-12.3%|-16.8%|-5.6%|48.5%|
+OP margin|26%|25%|30%|37%|39%|37%|||||||||
+Interest|20|1|1|1|1|0.6|||||||||
+Profit Before Tax|280|311|379|435|460.2|297.9|||||||||
+Equity Dividend (%)|10.00%|10.00%|10.00%|10.00%|10.00%|350.00%|||||||||
+Earnings Per Share (Rs.)|57.26|60.07|73.23|87.35|83.99|56.87|||||||||
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Consolidate Quarterly Results
+Consolidate Quarterly Results|Sep'21|Jun'21|Mar'21|Dec'20|Sep'20|Jun'20|Mar'20||||Sep'21|Jun'21|Mar'21|Dec'20|Sep'20|Jun'20|Mar'20|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Total Operating income|523.25|486.26|472.82|394.33|360.79|336.55|350.93|||||||||||
+|Net Sales|523.25|486.26|472.82|394.33|360.79|336.55|350.93||||8%|3%|20%|9%|7%|-4%||
+|Total Expenditure (Excl Depreciation)|358.16|345.1|320.32|282.25|258.75|255.15|273.2||||4%|8%|13%|9%|1%|-7%||
+|Employee Cost|288.37|271.28|251.51|228.79|203.17|201.84|212.43||||6%|8%|10%|13%|1%|-5%||
+|EC % of Net sales|**55%**|**56%**|**53%**|**58%**|**56%**|**60%**|**61%**|||||||||||
+|Operating Profit (PBDIT)|166.01|150.65|158.91|120.99|107.72|94.86|94.49||||10%|-5%|31%|12%|14%|0%||
+|EBITDA % Sales|**32%**|**31%**|**34%**|**31%**|**30%**|**28%**|**27%**|||||||||||
+|Interest|5.53|5.43|5.58|4.83|4.94|4.93|4.92|||||||||||
+|Profit Before Tax|135.32|121.54|128.9|95.94|83.16|72.63|71.07||||11%|-6%|34%|15%|14%|2%||
+|Consolidated Net Profit|100.74|91.31|98.75|71.04|60.99|51.77|55.4|||||||||||
+|Equity Capital|34.19|34.13|34.01|34.01|34.01|36.1|36.1|||||||||||
+|Face Value (IN RS)|10|10|10|10|10|10|10|||||||||||
+|Reserves|0|0|0|0|0|0|0|||||||||||
+|Earnings per share (EPS)|29.46|26.75|29.04|20.89|17.93|14.34|15.35||||10%|-8%|39%|17%|25%|-7%||
+|Diluted Earnings per share|28.96|26.55|28.81|20.79|17.71|14.34|15.35|||||||||||
+|Operating Profit Margin (Excl OI)|31.55%|29.03%|32.25%|28.42%|28.28%|24.19%|22.15%|||||||||||
+|Gross Profit Margin|31%|30%|32%|29%|28%|27%|26%|||||||||||
+|PAT Margin|19.26%|18.93%|20.81%|18.06%|17.03%|15.38%|15.78%||||||||||
