@@ -1,7 +1,7 @@
 ---
 id: "806eu30lmvt4llr4dl69pm6"
 title: "Book Notes Loves Executioner"
-desc: "''"
+desc: ''
 updated: "1667165674620"
 created: "1667163300296"
 date: "2022-10-31"

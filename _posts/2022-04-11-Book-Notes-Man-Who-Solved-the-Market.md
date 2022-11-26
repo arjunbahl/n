@@ -1,7 +1,7 @@
 ---
 id: "j5nzszmncq5tlgmu135aw34"
 title: "Book Notes Man Who Solved the Market"
-desc: "''"
+desc: ''
 updated: ""1649621089132""
 created: ""1649621089132""
 date: "2022-04-11"

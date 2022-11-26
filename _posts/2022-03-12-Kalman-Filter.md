@@ -1,7 +1,7 @@
 ---
 id: "kyutyya5pwz83zhultiu9y2"
 title: "Kalman Filter"
-desc: "''"
+desc: ''
 updated: "1647088112213"
 created: "1647086124955"
 date: "2022-03-12"

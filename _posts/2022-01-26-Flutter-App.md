@@ -1,7 +1,7 @@
 ---
 id: "dmsuAQUTbEhKIB7E2vtzk"
 title: "Flutter App"
-desc: "''"
+desc: ''
 updated: "1660415457930"
 created: "1643211205398"
 date: "2022-01-26"

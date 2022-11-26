@@ -1,7 +1,7 @@
 ---
 id: "h6ad1292dh9o99zvsxedwvu"
 title: "Book Notes Almanack of Naval"
-desc: "''"
+desc: ''
 updated: "1663962744122"
 created: "1663961672904"
 date: "2022-09-24"

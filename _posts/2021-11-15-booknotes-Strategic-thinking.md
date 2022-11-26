@@ -1,7 +1,7 @@
 ---
 id: "yRcBtuoJurdHBBTdPSunL"
 title: "booknotes-Strategic-thinking"
-desc: "''"
+desc: ''
 updated: "1636920403546"
 created: "1636920309778"
 date: "2021-11-15"

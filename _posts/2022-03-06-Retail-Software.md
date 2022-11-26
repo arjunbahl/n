@@ -1,7 +1,7 @@
 ---
 id: "dDsV2JXWhOU6uHOP3raK4"
 title: "Retail Software"
-desc: "''"
+desc: ''
 updated: "1646514038833"
 created: "1646512833919"
 date: "2022-03-06"

@@ -1,7 +1,7 @@
 ---
 id: "vgtbymqxmm7kc0szl37k2a7"
 title: "Book Notes Sociopath Next Door"
-desc: "''"
+desc: ''
 updated: "1660593110918"
 created: "1660592036064"
 date: "2022-08-16"

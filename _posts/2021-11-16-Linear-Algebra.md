@@ -1,7 +1,7 @@
 ---
 id: "DJUMDaKBAgnYUX9K5PIel"
 title: "Linear Algebra"
-desc: "''"
+desc: ''
 updated: "1643035548170"
 created: "1637049329055"
 date: "2021-11-16"

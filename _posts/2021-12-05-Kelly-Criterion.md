@@ -1,7 +1,7 @@
 ---
 id: "BR08GrSVKqAIt3vsA5nxo"
 title: "Kelly Criterion"
-desc: "''"
+desc: ''
 updated: "1638727984894"
 created: "1638727422756"
 date: "2021-12-05"

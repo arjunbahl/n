@@ -1,7 +1,7 @@
 ---
 id: "QnW8suSOlL3cpXeeIcpoo"
 title: "Portfolio Optimisation"
-desc: "''"
+desc: ''
 updated: "1637614430206"
 created: "1637056501259"
 date: "2021-11-16"
