@@ -1,32 +1,26 @@
 ---
-id: "mn74k24lc6a50lrdqyj6v22"
-title: "Flutter App_v3"
+id: mn74k24lc6a50lrdqyj6v22
+title: Flutter App_v3
 desc: ''
-updated: "1664964989115"
-created: "1663962359558"
-date: "2022-09-24"
-categories: 
-  - "research"
+updated: 1664964989115
+created: 1663962359558
 ---
 
 ---
-id: "1rijw49orkfuf2lyedat6vk"
-title: "Flutter App_v2"
+id: 1rijw49orkfuf2lyedat6vk
+title: Flutter App_v2
 desc: ''
-updated: "1660635169555"
-created: "1663962359558"
-date: "2022-09-24"
-categories: 
-  - "research"
+updated: 1660635169555
+created: 1660416585494
 ---
 
 To be good, be self-disciplined. To be excellent, love what you do. To be the best, be obsessed. stress/tension manage, test of your endurance- lose friends| relations| no food, no trying go all the way; Pain is your motivation.
 
 Kobe- If you have a hamstring injury, and there's a fire in your house while your family is upstairs, you'll forget about your injury and just run off to rescue them. When something is important you do whatever it takes. Importance ~ Obsession/Love
 
-Special Forces: "Your Choice (let's say you're greedy and love to eat sweets in front of you, its now your choice whether to eat in balance proportion or eat excessively and become a bum), SF is a state of mind- leave us in jungle with no clothes we'll come back, surrounded us we'll hit them and make it back, Fuckin put a bullet into his head, Let go- hang on a thread- on the edge, calm in chaos, train to live under pressure-probation for life, constant choice and pressure under which we work, Nothing is impossible, nothing, nothing, nothing, machine gun firing ambush-hiding in the nala between mountains- whole column- the man who stands now and returns fire and gives shit back is the natural leader-bhoot bana diya saalo ka-you have to take it no one gonna give you"
+Special Forces: Your Choice (let's say you're greedy and love to eat sweets in front of you, its now your choice whether to eat in balance proportion or eat excessively and become a bum), SF is a state of mind- leave us in jungle with no clothes we'll come back, surrounded us we'll hit them and make it back, Fuckin put a bullet into his head, Let go- hang on a thread- on the edge, calm in chaos, train to live under pressure-probation for life, constant choice and pressure under which we work, Nothing is impossible, nothing, nothing, nothing, machine gun firing ambush-hiding in the nala between mountains- whole column- the man who stands now and returns fire and gives shit back is the natural leader-bhoot bana diya saalo ka-you have to take it no one gonna give you
 
-3 levels of consciousness: "follower, leader and, an explorer"
+3 levels of consciousness: follower, leader and, an explorer
 
 i just thought at that point of time that the man who stands now and returns fire he's the leader
 
@@ -80,22 +74,22 @@ Bets basis edge (high wager with high edge), positive expected value
 
 Elon Musk
 Tony Stark- proactive, quick-thinker, fast talk, witty, smart solutions
-Matt Damon: "Martian"
+Matt Damon: Martian
 Steve jobs- details; Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary
 (Michael Fasbender- no shit given, people dislike him, insanely true/aware/honest to himself and follows his own heart/mind/intuition
 
 
 Ranbir Kapoor -Rockstar/YJHD;
 Aman - Rohit- Kal ho naa ho
-Shahrukh Khan: "KHNH, AIB(Spontaeneous), DDLJ, interviews-TED"
+Shahrukh Khan: KHNH, AIB(Spontaeneous), DDLJ, interviews-TED
 
 
 
 Hrithik Roshan (Arjun) ZNMD, Lakshay
-Daniel Craig: "Bond"
-Tom Cruise: "Mission Impossible"
-Sidharth Malhotra: "Student of the year, Shershaah-Yeh dil maange more- Teri maa ki"
-Richard Gere: "Lewis"
+Daniel Craig: Bond
+Tom Cruise: Mission Impossible
+Sidharth Malhotra: Student of the year, Shershaah-Yeh dil maange more- Teri maa ki
+Richard Gere: Lewis
 A Team
 Professor, Berlin, Tokyo
 Rocky balboa- world ain't no sunshine; not about how hard you hit its about how hard you can get hit and keep moving forward
@@ -119,10 +113,10 @@ Reading is faster than listening. Doing is faster than watching.
 Imagine someone comes along who demonstrably has slightly better judgment. They’re right 85 percent of the time instead of 75 percent. You will pay them $50 million, $100 million, $200 million, whatever it takes, because 10 percent better judgment steering a $100 billion ship is very valuable. 
 
 
-There are basically three really big decisions you make in your early life: "where you live, who you’re with, and what you do."
+There are basically three really big decisions you make in your early life: where you live, who you’re with, and what you do.
 
 
-Duality and polarity: "If I say I’m happy, that means I was sad at some point. Every positive thought even has a seed of a negative thought within it and vice versa, which is why a lot of greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive."
+Duality and polarity: If I say I’m happy, that means I was sad at some point. Every positive thought even has a seed of a negative thought within it and vice versa, which is why a lot of greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive.
 
 “I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.”
 

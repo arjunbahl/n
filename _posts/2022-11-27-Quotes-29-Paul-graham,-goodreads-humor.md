@@ -2,7 +2,7 @@
 id: "k4rpkdryv7w48tuhxu8she7"
 title: "Quotes 29 Paul graham, goodreads-humor"
 desc: ''
-updated: "1669492682834"
+updated: "1670139648835"
 created: "1669492650343"
 date: "2022-11-27"
 categories: 
