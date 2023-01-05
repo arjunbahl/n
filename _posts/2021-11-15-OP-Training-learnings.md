@@ -1,8 +1,15 @@
 ---
+id: "sy2AgyyVgtQZm4Dz1UKWV"
 title: "OP Training learnings"
-date: "2019-01-07"
+desc: ''
+updated: "1636922485870"
+created: "1636922485870"
+date: "2021-11-15"
 categories: 
   - "research"
+date: "'2019-01-07'"
+categories:
+  - research
 ---
 
 Attitude(GD, Extempore, Connect to present scenario), positive outlook always, client company connect with scenario given Problem solving, entrepreneurial, 4 girls business plan activity CIN, Communication-Idea-Networking
@@ -13,4 +20,4 @@ Game played, egg drop, using resources such that winning in atleast one round is
 
 Soch badlo kismat badlegi- Mukesh Ambani was told by Dhirubhai Ambani; positive rho koi set rules nhi hain, break them, no conventions
 
-Memory: vision(visual) > everything Depression: repetitive thinking (toddlers vs adults)
+Memory: "vision(visual) > everything Depression: repetitive thinking (toddlers vs adults)"

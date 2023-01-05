@@ -1,8 +1,15 @@
 ---
-title: "Framework Of Life #1"
-date: "2018-01-11"
+id: "rcAyWSBtl0QCx2gQAEtjW"
+title: "'Framework Of Life #1'"
+desc: ''
+updated: "1636922485803"
+created: "1636922485803"
+date: "2021-11-15"
 categories: 
   - "research"
+date: "'2018-01-11'"
+categories:
+  - research
 ---
 
 Things are to be done, after considering their priorities, whether now or later, else you sacrifice on your future success.
